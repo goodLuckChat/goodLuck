@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>onlysea.CPApp</string>
+				<string>onlysea.CPApp1</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>幸运娱乐</string>
+				<string>骆驼视频</string>
 			</dict>
 		</dict>
 	</array>
